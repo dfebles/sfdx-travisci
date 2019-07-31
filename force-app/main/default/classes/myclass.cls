@@ -1,3 +1,8 @@
+/*
+ * myclass
+ * @author Diego Febles
+ * @since 2019
+ */
 public with sharing class myclass {
 	public myclass() {
 
